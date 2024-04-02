@@ -1,6 +1,6 @@
 namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter18.Listing18_21;
 
-0#region INCLUDE
+#region INCLUDE
 // Restrict the attribute to properties and methods
 #region HIGHLIGHT
 [AttributeUsage(
