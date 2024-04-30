@@ -41,3 +41,5 @@ Zhou Jing | 22 | 1065 - 1066 | Changed 'Thread' to 'Task' and "Application exiti
 Zhou Jing | 4 | 161 | Fix `input < 9` to `input < 0` in Listing 4.24
 Zhou Jing    | 4 | 119 | Show inconsistent size multi-dimensional array in listing 3.16
 Zhou Jing | 3  | 114 | Replace `second` with `third` in "// Retrieve third item from the end (Python)"
+| Zhou Jing          | 9       | 507     | Remove duplicate URL's https://intellitect.com/WhyTupleBreaksTheImmutableRules                                                   |
+| Zhou Jing          | 8       | 455     | Replace "8.5" to "8.3" in listing reference in the sentence "Notice that CompareTo() in Listing 8.5"                            |
